@@ -1,4 +1,8 @@
-{"mappings”: [
-“/content/ameritasbank/:/”
-]
+{
+  "mappings": [
+    "/content/ameritasbank/:/",
+    "/content/ameritasbank/placeholders:/placeholders.json",
+    "/graphql:/graphql",
+    "/content/ameritasbank.resource/icons/:/icons/"
+  ]
 }
